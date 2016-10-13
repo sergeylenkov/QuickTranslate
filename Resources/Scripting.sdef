@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "file://localhost/System/Library/DTDs/sdef.dtd">
+
+<dictionary title="Quick Translate">
+	<suite name="Quick Translate Suite" code="QtSt" description="Quick Translate application specific scripting facilities.">
+		
+		<class name="application" code="capp" description="An application&apos;s top level scripting object.">
+			<cocoa class="NSApplication"/>
+			
+			<property name="translated text" code="prdy" type="text" access="r">
+				<cocoa key="translatedText"/>
+			</property>
+		</class>
+		
+		<command name="text to translate" code="QtSsTxTt" description="set text top translate">
+			<cocoa class="SetTextCommand"/>
+			<direct-parameter description="a text to translate">
+				<type type="text"/>
+			</direct-parameter>
+		</command>
+		
+		<command name="show window" code="QtSsShWn" description="open translate window">
+			<cocoa class="ShowWindowCommand"/>	
+		</command>
+		
+		<command name="translate" code="QtSsTslt" description="translate text">
+			<cocoa class="TranslateCommand"/>	
+		</command>
+				
+	</suite>
+</dictionary>

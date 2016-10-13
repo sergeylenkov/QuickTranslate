@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1B35AAF7BC3DA63F3831A681A53978444C10A16B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1B35AAF7BC3DA63F3831A681A53978444C10A16B" : 9223372036854775807,
+    "AA3724F8AD565DB2089C5757B6B76FDB09E52E51" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "EBCDD9A0-1415-44BA-8A4F-2AC285C0DB15",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1B35AAF7BC3DA63F3831A681A53978444C10A16B" : "Quick%20Translate\/",
+    "AA3724F8AD565DB2089C5757B6B76FDB09E52E51" : "Shared\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "QuickTranslate",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "QuickTranslate.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sergeylenkov\/Quick-Translate.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1B35AAF7BC3DA63F3831A681A53978444C10A16B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jquave\/json-framework.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AA3724F8AD565DB2089C5757B6B76FDB09E52E51"
+    }
+  ]
+}

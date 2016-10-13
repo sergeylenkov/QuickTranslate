@@ -1,0 +1,11 @@
+Quick Translate - it’s mac application for quick translate text using Google Translate or Bing Translator
+
+Building Quick Translate
+-------------------
+
+Quick Translate uses some external classes:
+
+ASIHTTP - http://allseeing-i.com/ASIHTTPRequest
+RegexKitLite - http://regexkit.sourceforge.net
+JSON - http://code.google.com/p/json-framework
+SGHotKey - https://github.com/secondgear/SGHotKeysLib
